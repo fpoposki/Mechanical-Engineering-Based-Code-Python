@@ -1,7 +1,7 @@
 # Mechanical-Engineering-Based-Code-Python
 
 
-# Centrifual pump curve.py
+# Centrifugal pump curve.py
 Centrifugal pump curve is a file that removes the hustle for plotting characteristic curves of a centrifugal pump
 
 The program takes in several dimensions of the pump. Asks you how many points do you want to insert from the curve given by the
