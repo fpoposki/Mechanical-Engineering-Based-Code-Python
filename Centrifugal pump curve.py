@@ -162,8 +162,8 @@ while measurement_on:
             break
 
     if addmeasure.lower()[0] == 'y':
-        value1 = float(input("Measured vacuum [bar]: "))
-        value2 = float(input("Measured presssure [bar]: "))
+        value1 = float(input("Measured vacuum pressure [bar]: "))
+        value2 = float(input("Measured gauge presssure [bar]: "))
         value3 = float(input("Measured flow [l/min]: "))
         value4 = int(input("Measured RPM [o/min]: "))
         # changing the measured values so thay can be used for further calculations
